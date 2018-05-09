@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">"Islamic events "</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_title">Islam</string>
+    <string name="item_desc">The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+    </string>
+    <string name="detail_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    </string>
+
+    <string name="about_us">
+        Islamic events is a mobile application which allows users access to all types of available events
+        across the country. Islamic events provides all the details required for each event whether its speeches,
+        exhibitions, fundraisers and many more. Islamic events also shows available quran schools for
+        people of all ages to participate in learning quran.
+    </string>
+
+
+    <string name="detail_location">"18 cockington road, NG8 4BZ, Nottingham"</string>
+    <string name="Date"> "07/09/2017"</string>
+    <string name="Time"> "22:00"</string>
+    <string name="Ticket_price"> "$10"</string>
+
+
+    <string-array name="categories">
+        <item>Speeches</item>
+        <item>Fundraising</item>
+        <item>Exhibitions</item>
+        <item>Auctions</item>
+        <item>Activities</item>
+        <item>Education</item>
+        <item>Festivals</item>
+        <item>Conferences</item>
+    </string-array>
+
+    <string-array name="en_cities">
+        <item>London</item>
+        <item>Manchester</item>
+        <item>Nottingham</item>
+        <item>Birmingham</item>
+        <item>Derby</item>
+
+    </string-array>
+
+    <string-array name="List_of_cities_ca">
+        <item>Ottawa</item>
+        <item>Montreal</item>
+        <item>Toronto</item>
+
+    </string-array>
+
+    <string-array name="List_of_cities_us">
+        <item>New york</item>
+        <item>Washington</item>
+        <item>Texas</item>
+
+    </string-array>
+
+    <string-array name="List_of_countries">
+        <item>England</item>
+        <item>Canada</item>
+        <item>America</item>
+    </string-array>
+
+
+    <string name="profile_edit"> <u>Edit profile</u></string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="drawer_open" />
+    <string name="drawer_close" />
+
+
+</resources>
+
